@@ -1,0 +1,22 @@
+<svg width="418" height="730" viewBox="0 0 418 730" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_b_1_247)">
+<ellipse rx="387.5" ry="387.5" transform="matrix(1 8.74228e-08 8.74228e-08 -1 388.499 388.496)" fill="url(#paint0_radial_1_247)" fill-opacity="0.2"/>
+<path d="M774.999 388.496C774.999 175.038 601.957 1.99584 388.499 1.99582C175.041 1.9958 1.99859 175.038 1.99857 388.496C1.99855 601.954 175.04 774.996 388.499 774.996C601.957 774.996 774.998 601.954 774.999 388.496Z" stroke="url(#paint1_linear_1_247)" stroke-opacity="0.6" stroke-width="2"/>
+</g>
+<defs>
+<filter id="filter0_b_1_247" x="-119.001" y="-119.004" width="1015" height="1015" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImage" stdDeviation="60"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_1_247"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_1_247" result="shape"/>
+</filter>
+<radialGradient id="paint0_radial_1_247" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(387.5 387.5) rotate(90) scale(387.5)">
+<stop stop-color="#FE3449"/>
+<stop offset="1" stop-color="#FF374A"/>
+</radialGradient>
+<linearGradient id="paint1_linear_1_247" x1="757.998" y1="497.996" x2="236.999" y2="588.996" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>
